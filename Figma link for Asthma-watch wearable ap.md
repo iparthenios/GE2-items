@@ -1,0 +1,1 @@
+[Figma link for Asthma-watch wearable app](https://www.figma.com/proto/dyY8zF0HrCbfoSlOlRFQNL/asthma-watch?type=design&node-id=47-6&t=BbagsSRnDUFmgM62-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design)
