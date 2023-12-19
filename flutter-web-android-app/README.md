@@ -24,7 +24,7 @@ https://github.com/std133524/Airometer-new/
 
 
 
-# Άλλη παρόμοια εφαρμογή που δείχνει τον καιρό
+# Άλλη παρόμοια εφαρμογή flutter εφαρμογή που δείχνει τον καιρό
 https://github.com/indratrisnar/weather_app_challenge
 
 
