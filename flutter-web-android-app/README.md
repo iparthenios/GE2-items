@@ -3,6 +3,12 @@ https://github.com/HackYourWayHackathon/Airometer
 
 Νομίζω είχα δεί κάτι παρόμοιες εικόνες από την παρουσίαση ενός απο τα άλλα δυο group. Απλά δεν αναφέρθηκε στην παρουσίαση πως είχαν βρεί την εφαρμογή στο github. Δεν θυμάμαι όμως και πολύ καλά.
 
+Δημιουργήθηκαν 2 screens screen1.png και screen2.png μέσω του [Protopie](https://www.protopie.io/).  Η διαδικασία είναι πολύ εύκολη.
+
+Ο χρωματισμός ή το alert του χρώματος πρέπει να ακολουθεί το κλασικό πρώτυπου όπως περιγράφεται εδώ: https://www.airnow.gov/aqi/aqi-basics/
+
+Έγινε μια έρευνα στο github.com με όρους όπως https://github.com/search?q=flutter+aqi&type=repositories&s=stars&o=desc τελικά επιλέχθηκε η παρακάτω opensource εφαρμογή. Συνήθως αυτές οι εφαρμογές με τα περισσότερα "stars" είναι δημοφιλείς καθώς είναι πρόσφατες και λειτουργικές
+
 # Forked εφαρμογή:
 https://github.com/std133524/Airometer-new/
 
