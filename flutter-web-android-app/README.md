@@ -1,6 +1,8 @@
 # Αρχική Εφαρμογή
 https://github.com/HackYourWayHackathon/Airometer
 
+Νομίζω είχα δεί κάτι παρόμοιες εικόνες από την παρουσίαση ενός απο τα άλλα δυο group. Απλά δεν αναφέρθηκε στην παρουσίαση πως είχαν βρεί την εφαρμογή στο github. Δεν θυμάμαι.
+
 # Forked εφαρμογή:
 https://github.com/std133524/Airometer-new/
 
@@ -19,5 +21,10 @@ https://github.com/std133524/Airometer-new/
 3. Ακολουθούμε τις οδηγίες για να τρέξουμε την εφαρμογή στο Readme https://github.com/HackYourWayHackathon/Airometer
    flutter pub get
    flutter run
+
+
+
+# Άλλη παρόμοια εφαρμογή που δείχνει τον καιρό
+https://github.com/indratrisnar/weather_app_challenge
 
 
