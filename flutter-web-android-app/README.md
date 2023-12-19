@@ -1,10 +1,12 @@
 # Αρχική Εφαρμογή
 https://github.com/HackYourWayHackathon/Airometer
 
-Νομίζω είχα δεί κάτι παρόμοιες εικόνες από την παρουσίαση ενός απο τα άλλα δυο group. Απλά δεν αναφέρθηκε στην παρουσίαση πως είχαν βρεί την εφαρμογή στο github. Δεν θυμάμαι.
+Νομίζω είχα δεί κάτι παρόμοιες εικόνες από την παρουσίαση ενός απο τα άλλα δυο group. Απλά δεν αναφέρθηκε στην παρουσίαση πως είχαν βρεί την εφαρμογή στο github. Δεν θυμάμαι όμως και πολύ καλά.
 
 # Forked εφαρμογή:
 https://github.com/std133524/Airometer-new/
+
+Τα screenshots είναι απο την εφαρμογή που τρέχει στο κινητό τηλέφωνο. Η εφαρμογή δεν έχει πολλές δυνατότητες. Απλά βρίσκεις την πόλη και σoυ δείχνει το AQI. Το έκανα για 3-4 πόλεις.
 
 Η εφαρμογή έγινε compiled τελικά σε έναν καινούργιο υπολογιστή με αρκετή μνήμη, με api key από το https://openweathermap.org/. (https://openweathermap.org/api/one-call-3). 
 
@@ -21,8 +23,6 @@ https://github.com/std133524/Airometer-new/
 3. Ακολουθούμε τις οδηγίες για να τρέξουμε την εφαρμογή στο Readme https://github.com/HackYourWayHackathon/Airometer
    flutter pub get
    flutter run
-
-
 
 # Άλλη παρόμοια εφαρμογή flutter εφαρμογή που δείχνει τον καιρό
 https://github.com/indratrisnar/weather_app_challenge
